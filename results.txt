@@ -1,0 +1,4 @@
+Stock name: AAPL 4 shares value $500
+Stock name: MSFT 2 shares value $500
+Stock name: TSLA 2 shares value $500
+Total investments: 1880
